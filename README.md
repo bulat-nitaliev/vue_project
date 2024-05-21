@@ -1,4 +1,4 @@
-# lern_project
+# learn_project_VUE
 
 ## Project setup
 ```
